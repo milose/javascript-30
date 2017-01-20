@@ -5,6 +5,7 @@
   },
   "scripts": {
     "start": "npm run php",
+    "test": "standard",
     "php": "php -S localhost:1337 | open 'http://localhost:1337'",
     "python": "python -m SimpleHTTPServer 1337 | open 'http://localhost:1337'"
   }
