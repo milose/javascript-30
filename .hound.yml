@@ -1,0 +1,4 @@
+#npm install --save-dev eslint-config-standard eslint-plugin-standard eslint-plugin-promise
+eslint:
+  enabled: true
+  config_file: .eslintrc
