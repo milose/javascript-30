@@ -1,0 +1,51 @@
+body {
+    background-image: url('bg.jpg');
+    background-repeat: repeat;
+    background-color: #555;
+    color: #eee;
+    font-family: sans-serif;
+}
+
+a, a:visited {
+    color: salmon;
+    font-weight: bold;
+}
+
+h1 {
+    text-align: center;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    height: 80vh;
+}
+
+.key {
+    color: #aaa;
+    font-size: 24px;
+    opacity: 0.5;
+    background-color: black;
+    width: 60px;
+    height: 60px;
+    line-height: 60px;
+    text-align: center;
+    border: 2px solid #777;
+    margin: 0 5px;
+    transition: all 0.07s;
+    box-shadow: 0 0 10px black;
+}
+
+.playing {
+    transform: scale(1.1);
+    border-color: yellow;
+    box-shadow: 0 0 10px yellow;
+}
+
+.missing {
+    transform: scale(1.1);
+    border-color: red;
+    box-shadow: 0 0 10px red;
+}
