@@ -17,7 +17,7 @@ To run this code:
 ## TODO
 
 - [ ] Day 01: Add sound files.
-- [ ] Day 02: https://unsplash.it/1000/800?image=953&blur
+- [ ] Day 03
 
 ## Author
 
