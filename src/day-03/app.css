@@ -1,0 +1,44 @@
+:root {
+    --spacing: 20px;
+    --blur: 0px;
+    --color: #615192;
+}
+
+body {
+    background-color: #403075;
+    color: #eee;
+    font-family: 'helvetica neue', sans-serif;
+}
+
+a, a:visited {
+    color: salmon;
+    font-weight: bold;
+}
+
+h1 {
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.5);
+    line-height: 2em;
+}
+
+ul.controls {
+    list-style: none;
+    display: flex;
+    margin-bottom: 2em;
+}
+
+ul.controls li {
+    color: #887CAF;
+    width: 200px;
+}
+
+img {
+    padding: var(--spacing);
+    background-color: var(--color);
+    margin: auto;
+    filter: blur(var(--blur));
+}
+
+.highlight {
+    color: var(--color);
+}
