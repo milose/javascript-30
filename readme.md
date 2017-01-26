@@ -16,7 +16,7 @@ To run this code:
 ## TODO
 
 - [ ] Day 01: Add sound files.
-- [ ] Day 03
+- [ ] Day 04.
 
 ## Author
 
