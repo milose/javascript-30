@@ -1,12 +1,12 @@
 {
-  "dependencies": {},
+  "dependencies": {
+    "express": "^4.14.0"
+  },
   "devDependencies": {
     "standard": "^8.6.0"
   },
   "scripts": {
-    "start": "npm run php",
-    "test": "standard",
-    "php": "php -S localhost:1337 | open 'http://localhost:1337'",
-    "python": "python -m SimpleHTTPServer 1337 | open 'http://localhost:1337'"
+    "start": "node server.js | open 'http://localhost:1337'",
+    "test": "standard"
   }
 }

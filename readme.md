@@ -10,9 +10,8 @@ To run this code:
 
 1. Clone this repo
 2. Navigate to the directory
-3. Start the server
-    * To start with PHP run `npm start` or `npm run php`
-    * To start a server with Python run `npm run python`
+3. run `npm install` or `yarn`
+3. Start the server with `npm start`
 
 ## TODO
 
