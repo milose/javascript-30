@@ -1,0 +1,16 @@
+body {
+    background-color: #123552;
+    color: #eee;
+    font-family: 'helvetica neue', sans-serif;
+}
+
+a, a:visited {
+    color: salmon;
+    font-weight: bold;
+}
+
+h1 {
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.5);
+    line-height: 2em;
+}
