@@ -15,7 +15,7 @@ To run this code:
 
 ## TODO
 
-- [ ] Day 01: Add sound files.
+- [ ] Day 01: Add sound [files](https://github.com/karenfreemansmith/JS30-Day01-DrumKit/tree/master/sounds).
 - [ ] Day 05.
 
 ## Author
